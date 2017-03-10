@@ -1,0 +1,2 @@
+# GoodsList
+imitate taobao
